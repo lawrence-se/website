@@ -1,3 +1,0 @@
-# Lawrence.se
-
-Simple placeholder
