@@ -1,1 +1,3 @@
-# website
+# Lawrence.se
+
+Simple placeholder
